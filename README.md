@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **L-Gu7/L-Gu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-- I'm currently an undergraduate student learning CS and Math at NYU. I am passionate about full-stack development.
+
+-- I love music and coffee brewing besides coding!
