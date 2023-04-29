@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -- I'm currently an undergraduate student learning CS and Math at NYU. I am passionate about full-stack development.
 
 -- I love music and coffee brewing besides coding!
+
+Feel free to reach me [by email](mailto:tianhao.gu@outlook.com) any time!
