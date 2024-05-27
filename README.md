@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--- I'm currently an undergraduate student learning CS and Math at NYU. I am passionate about full-stack development.
+-- I'm currently a grad student learning CS (Information Networking) at CMU. I am passionate about systems and security.
 
 -- I love music and coffee brewing besides coding!
 
