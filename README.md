@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -- I love music and coffee brewing besides coding!
 
-Feel free to reach me [by email](mailto:tianhao.gu@outlook.com) any time!
+Feel free to reach me [by email](mailto:gutianhao@cmu.edu) any time!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
