@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--- I'm currently a grad student learning CS (Information Networking) at CMU. I am passionate about systems and cloud.
+-- I'm currently a grad student learning CS (Information Networking) at CMU. I am passionate about data, systems and the cloud.
 
 -- I love different cultures, music and coffee brewing besides coding!
 
